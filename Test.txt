@@ -6,4 +6,8 @@ develop change 2
 feature 1
 feature change 2
 
+
 develop change 3
+
+feature second 1
+feature second 2
